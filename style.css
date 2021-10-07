@@ -1,10 +1,5 @@
-    /* body {
-    background-color: aquamarine; 
-}   */
-
 h1 {
     text-align: center;
-
 }
 
 p {
@@ -20,7 +15,20 @@ img {
 }
 
 header {
-    border: solid 1px orange;
+    background: grey;
     text-align: center;
     font-size: 48pt;
+}
+
+.btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid green;
+}
+
+.text{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
